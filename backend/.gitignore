@@ -1,0 +1,11 @@
+.idea/
+.vscode/
+node_modules/
+build/
+coverage
+.env
+*.sqlite
+ormconfig.json
+
+uploads/points/*
+!uploads/points/.gitkeep
